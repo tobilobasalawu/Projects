@@ -15,3 +15,6 @@
 
 - [Amazon Price Tracker (Python)](https://github.com/tobilobasalawu/Amazon_price_tracker):
     I designed an Amazon price tracker that monitors the price of items on Amazon and sends an email to users when there are significant changes
+
+- [Youtube Downloader(Python)](https://github.com/tobilobasalawu/youtubeDownloader):
+   With Python, I created a tool that downloads videos directly from Youtube. It allows users to provide the URL of the video and when the download button is clicked it instantly downloads.
