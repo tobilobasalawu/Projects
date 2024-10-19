@@ -17,6 +17,9 @@
  
  - [Pantry Tracker (Nextjs & Firebase)](https://github.com/tobilobasalawu/pantryTracker):
    Pantry Tracker is a simple inventory management application built with Next.js and Firebase. It allows users to manage and keep track of their pantry items, including the item name, quantity, expiration date, and price.
+
+ - [Portfolio V2(CSS, HTML & Javscript)](https://github.com/tobilobasalawu/portfolio-v2):
+   This repository showcases the second iteration of my portfolio.
  
  - [Javascript Amazon project (HTML, CSS & Javascript)](https://github.com/tobilobasalawu/javascript-amazon-project):
    I have recreated Amazon's shopping site using HTML, CSS, and Javascript. This project showcases a functional e-commerce platform with product listings and a shopping cart. The interface is designed to mimic Amazon's look and feel. (InProgress)
@@ -38,4 +41,7 @@
 
 - [Rock-Paper-Scissors game (Python)](https://github.com/tobilobasalawu/mini_python_programs/blob/main/Rock-Paper-Scissors%20game.py):
     In this project, I created a text-based rock-paper-scissors game using Python. It allows users to okay play against the computer by choosing their move, and the program randomly selects the computer's move.
+
+### PS: Other Noteworthy Projects
+I've also worked on several other projects that remain private, where I applied my skills in areas like software development, AI, and web applications.
 
