@@ -1,5 +1,11 @@
  ## 📖 Projects
  Some of the projects have worked on:
+ - [BulkEmailGeneration (Python, HTML, SMTPlib & Pandas-python)](https://github.com/tobilobasalawu/BulkEmailGeneration):
+   BulkEmail Generation is a Python-based script designed to send personalized bulk emails using Gmail's/WebMail SMTP server.
+ 
+ - [Portfolio-V3 (CSS, HTML, Typescript, Reactjs, Javascript & Tailwindcss)](https://github.com/tobilobasalawu/portfolio-v3):
+   Portfolio-v3 is the third iteration of my personal portfolio website.
+ 
  - [CompanyCritique (Cheerio, Nextjs, Expressjs, OpenAI, React-markdown, Puppeteer & Tailwindcss)](https://github.com/VriaA/CompanyCritique):
    In a team of three, we a data extraction tool that provides detailed ratings and insights on employers with information from popular platforms like Indeed and Trustpilot.
  
