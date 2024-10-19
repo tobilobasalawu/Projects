@@ -1,5 +1,8 @@
  ## 📖 Projects
  Some of the projects have worked on:
+ - [Supportly (Firebase, MongoDB, Nextjs, Material-UI, OpenAI, Tailwindcss, RAG & Huggingface)](https://github.com/VriaA/Supportly):
+   In a team of three, we developed an AI-powered chatbot that leverages huggingface embeddings and OpenAI's chat completion API to provide mental health support in a compassionate and effective manner.
+ 
  - [Pantry Tracker (Nextjs & Firebase)](https://github.com/tobilobasalawu/pantryTracker):
    Pantry Tracker is a simple inventory management application built with Next.js and Firebase. It allows users to manage and keep track of their pantry items, including the item name, quantity, expiration date, and price.
  
