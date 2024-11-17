@@ -1,5 +1,8 @@
  ## 📖 Projects
  Some of the projects have worked on:
+ - [OceanVaultBankingApp (React.js, TailwindCSS ,Node.js, Express.js, Appwrite)](https://github.com/tobilobasalawu/ocean-vault.git):
+   Ocean Vault is a full-stack banking application that provides users with secure banking services. The application is built using modern web technologies and aims to provide a seamless and intuitive user experience. 
+ 
  - [BulkEmailGeneration (Python, HTML, SMTPlib & Pandas-python)](https://github.com/tobilobasalawu/BulkEmailGeneration):
    BulkEmail Generation is a Python-based script designed to send personalized bulk emails using Gmail's/WebMail SMTP server.
  
