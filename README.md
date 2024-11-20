@@ -21,6 +21,9 @@
  - [Pantry Tracker (Nextjs & Firebase)](https://github.com/tobilobasalawu/pantryTracker):
    Pantry Tracker is a simple inventory management application built with Next.js and Firebase. It allows users to manage and keep track of their pantry items, including the item name, quantity, expiration date, and price.
 
+- [ItemTracker (Javascript, HTML, CSS & Firebase)](https://github.com/tobilobasalawu/ItemTracker):
+   A platform for tracking your items & groceries - (Intro to firebase)
+
  - [Portfolio V2(CSS, HTML & Javscript)](https://github.com/tobilobasalawu/portfolio-v2):
    This repository showcases the second iteration of my portfolio.
  
