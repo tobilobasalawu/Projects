@@ -1,5 +1,8 @@
  ## 📖 Projects
  Some of the projects have worked on:
+ - [NoBeesWax (Flask, Clerk, Firebase, Vite, Reddit Api, Nebius AI, Meta AI, Ollama, Unsloth)](https://github.com/Warfarian/NoBeesWax):
+   NoBeesWax is a revolutionary, privacy-focused platform designed to help users discover, share, and validate discount coupons without compromising on their personal data. 
+ 
  - [OceanVaultBankingApp (React.js, TailwindCSS ,Node.js, Express.js, Appwrite)](https://github.com/tobilobasalawu/ocean-vault.git):
    Ocean Vault is a full-stack banking application that provides users with secure banking services. The application is built using modern web technologies and aims to provide a seamless and intuitive user experience. 
  
