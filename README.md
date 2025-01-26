@@ -1,5 +1,8 @@
  ## 📖 Projects
  Some of the projects have worked on:
+ - [Brainrot Chatbot](https://github.com/krishnapriya-n/brainrot-chat-bot):
+   Brainrot Study Bot is your new AI-powered study buddy! Designed for hackathon fun and beyond, this chatbot combines learning with entertainment.
+   
  - [NoBeesWax (Flask, Clerk, Firebase, Vite, Reddit Api, Nebius AI, Meta AI, Ollama, Unsloth)](https://github.com/Warfarian/NoBeesWax):
    NoBeesWax is a revolutionary, privacy-focused platform designed to help users discover, share, and validate discount coupons without compromising on their personal data. 
  
